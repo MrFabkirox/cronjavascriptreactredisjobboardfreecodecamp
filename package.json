@@ -1,0 +1,20 @@
+{
+  "name": "cronjavascriptreactredisjobboardfreecodecamp",
+  "version": "1.0.0",
+  "description": "<img src={logo} className=\"App-logo\" alt=\"logo\" /> <br />",
+  "main": "server.js",
+  "scripts": {
+    "nodemon": "nodemon run api/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.4",
+    "redis": "^3.0.2"
+  }
+}
