@@ -25,5 +25,5 @@ curl localhost/jobs<br />
 <h3>2. Client</h3>
 yarn start <br />
 
-<h3>3. Server</h3>
+<h3>3. Server (api)</h3>
 npm run nodemon<br />
